@@ -3,6 +3,7 @@ package smart.tools;
 import com.impinj.octane.ImpinjReader;
 import com.impinj.octane.OctaneSdkException;
 import com.impinj.octane.Settings;
+import com.impinj.octane.TagReport;
 
 import java.util.Scanner;
 
